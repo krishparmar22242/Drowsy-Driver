@@ -20,6 +20,7 @@ dlib
 numpy
 imutils
 pygame
+shape_predictor_68_face_landmarks.dat  download from here      https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat
 
 Code Overview
 
